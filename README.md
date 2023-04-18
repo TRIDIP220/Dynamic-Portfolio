@@ -13,3 +13,12 @@ Integration with Flask-restplus, Flask-Cors, Flask-Testing, Flask-SQLalchemy,and
 - OAuth: [Flask-OAuth](https://pythonhosted.org/Flask-OAuth/)
 
 - ESDAO: [elasticsearch](https://elasticsearch-py.readthedocs.io/en/master/) , [elasticsearch-dsl](http://elasticsearch-dsl.readthedocs.io/en/latest/index.html)
+
+
+## Installation
+
+Install with pip:
+
+```
+$ pip install -r requirements.txt
+```
