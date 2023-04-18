@@ -15,3 +15,8 @@ Testing: Flask-Testing
 OAuth: Flask-OAuth
 
 ESDAO: elasticsearch , elasticsearch-dsl
+
+Installation
+Install with pip:
+
+$ pip install -r requirements.txt
